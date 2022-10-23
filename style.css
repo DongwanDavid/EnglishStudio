@@ -1,0 +1,24 @@
+.container {
+    /* border-style: solid; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 30px;
+    width: 100%;
+    padding: 1px;
+}
+
+.item {
+    /* border-style: solid; */
+    float: left;
+} .item th {
+    /* border-style: solid; */
+    text-align: center;
+} .item td {
+    text-align: center;
+}
+
+.hide-button {
+    float: right;
+}
